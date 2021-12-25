@@ -3,8 +3,8 @@
 ## Challenge 1:  Refactor the provided code from Horiseon.
 
 ## Built with:
-*HTML
-*CSS
+* HTML
+* CSS
 
 ### This project included a starter code for HTML and CSS without accessibility traits and needed consolidation in the coding of the stylesheet.
 
