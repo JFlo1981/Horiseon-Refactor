@@ -21,6 +21,7 @@ The stylesheet was strutured poorly. Some styles were missing to create a websit
 ## Horiseon Website:
 https://jflo1981.github.io/Horiseon-Refactor/
 
+![screenshot](images/Screenshot-horiseon.jpg)
 <img src="images/Screenshot-horiseon.jpg" width="300" >
 
 ## Github Link:
