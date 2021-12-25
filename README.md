@@ -27,7 +27,6 @@ https://jflo1981.github.io/Horiseon-Refactor/
 https://github.com/JFlo1981/Horiseon-Refactor
 
 ## Contributions:
-* Author: Xandromus
-* Refactor: JFlo1981
+* Refactored by: Jarod Florence (JFlo1981)
 
 ### ©️2021 Horiseon, Inc
