@@ -1,9 +1,6 @@
 # Horiseon-Refactor
 
-Challenge 1 - Horiseon Refactor and code cleanup
-
-This project included a starter code without any accessibility traits written into it.  
-It also lacked semantic elements and the style sheet was redundant.
+## Challenge 1 - Horiseon Refactor and code cleanup:  <p>This project included a starter code without any accessibility traits written into it.  It also lacked semantic elements and the style sheet was redundant.</p>
 
 My job on this project is to identify and correct these errors, omissions and oversites to create a more user and developer friendly web experience.
 
